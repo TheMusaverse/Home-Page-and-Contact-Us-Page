@@ -1,12 +1,18 @@
-# React + Vite
+# Home Page and ContactUs Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template features a responsive React application with a modern UI powered by Mantine. It features a clean, clear design theme and includes smooth navigation using React Router.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚛️ Built with React and Mantine
+- 🎨 Custom claer theme for a calm, elegant interface
+- 🔗 Seamless page navigation with React Router
+- 📱 Responsive header with dynamic active link highlighting
+- 🖼️ Custom branding with a personalized logo
 
-## Expanding the ESLint configuration
+## 🧱 Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Mantine Core + Hooks
+- React Router DOM
+- CSS Modules
