@@ -5,7 +5,7 @@ This template features a responsive React application with a modern UI powered b
 ## 🚀 Features
 
 - ⚛️ Built with React and Mantine
-- 🎨 Custom claer theme for a calm, elegant interface
+- 🎨 Custom clear theme for a calm, elegant interface
 - 🔗 Seamless page navigation with React Router
 - 📱 Responsive header with dynamic active link highlighting
 - 🖼️ Custom branding with a personalized logo
